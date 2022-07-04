@@ -217,7 +217,7 @@ footer h2 {
     }
 }
 @media screen and (max-width: 400px) {
-    aside img, footer h1 {
+    aside img {
         width: 50%;
         margin-left: 15%;
         flex: 0 1;
@@ -225,8 +225,9 @@ footer h2 {
 }
 
 @media screen and (max-width: 400px) {
-    footer h1, p {
-        width: 100%;
-        margin-right: 25%
+    footer h2, p {
+        width: 75%;
+        margin-right: 25%;
+        flex: 0 1;
     }
 }
