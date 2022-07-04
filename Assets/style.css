@@ -1,3 +1,139 @@
 body {
-    background: purple
+    background: rgb(248, 216, 156);  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: flex-start;
+}
+
+header {
+    display:inline-flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 10px;
+    background-color: rgb(248, 216, 156);
+    color: orangered;
+}
+header h1 {
+    margin-left: 40px;
+}
+
+header h2 {
+    margin-right: 40px;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: orangered;
+}
+
+nav a {
+    color: rgb(248, 216, 156);
+    padding: 14px 20px;
+    text-decoration: underline;
+    font-size: larger;
+    font-family: cursive;
+}
+
+nav a:hover {
+    color: rgb(136, 36, 36);
+}
+
+nav a:active {
+    color: blue;
+}
+
+nav a:focus {
+    color:purple;
+}
+
+.plain {
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+
+aside {
+    flex: 1;
+    background-color: rgb(136, 36, 36);
+    padding: 3%;
+    text-align: center;
+    color:rgb(248, 216, 156);
+}
+
+aside img {
+    width: 100%;
+    border-radius: 180px 180px 180px 180px;
+}
+
+aside h1 {
+    font-size: xx-large;
+}
+
+#Work {
+    margin-top: 250px;
+}
+
+#Resume {
+    margin-top: 250;
+}
+
+.Container {
+    flex: 4;
+    background-color: rgb(248, 216, 156);
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center space space-between;
+    align-items: center;
+}
+
+.card1 {
+    background-color:rgb(136, 36, 36);
+    width: 65%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding: 10px;
+    flex: 1 1 250;
+    margin: 0 0 0 15%;
+}
+
+.card1 img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.card1:hover {
+    box-shadow: 2px 2px 5px 5px rgb(58, 56, 56);
+}
+
+.card1 button {
+    border: 1px solid black;
+    border-radius: 10px 10px 10px 10px;
+    background-color: orangered;
+    color: rgb(248, 216, 156);
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.card2 img {
+    width: 100%;
+    height: 85%;
+    border-radius: 15px;
+}
+
+.card2:hover {
+    box-shadow: 2px 2px 5px 5px rgb(58, 56, 56);
 }
