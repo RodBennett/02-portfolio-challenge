@@ -1,7 +1,7 @@
 # 2-portfolio-challenge
 In this assignment, I used much of whatwe learned in the the first 2 classses with HTML and CSS.
 
-I used this opportunity to experiment with a number of different HTML elements that I have never used before, such as <main>, <button>, <aside>,ids and classes.  I also strived to use as many semantic elements as possibe to avoid any confusoin in the code. Additionally, I used an icon in the sidebar that I think gives the final product a nice, tasteful look.  
+I used this opportunity to experiment with a number of different HTML elements that I have never used before, such as main, button, aside,ids and classes.  I also strived to use as many semantic elements as possibe to avoid any confusoin in the code. Additionally, I used an icon in the sidebar that I think gives the final product a nice, tasteful look.  
 
 Choosing a color scheme proved to be quite difficut.  I looked up many different kinds of color schemes on Google and finally came across an orangered, brown and light yellow combination that gives the page a bit of life (imho). I think thge color combinations works quite well for the content.
 
