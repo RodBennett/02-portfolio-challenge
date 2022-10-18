@@ -2,9 +2,9 @@
 
 ## Summary
 
-``` As a web developer in bootcamp training, it is vitally important that I create a portfolio of my work for the sake of future employability.  The original bersion of this portfiolio was built using HTML and CSS, the first two programming languages develolpers are taught when learning web development. ```
+``` As a web developer in training at the University of Denver, it is vitally important that I create a portfolio of my work for the sake of future employability.  The original version of this portfolio was built using HTML and CSS, the first two programming languages developers are taught when learning web development. ```
 
-### [Deployment Link](https://rodbennett.github.io/02-portfolio-challenge/)
+#### [Deployment Link](https://rodbennett.github.io/02-portfolio-challenge/)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@
 
 ## Description
 
-I used this opportunity to experiment with a number of different HTML elements that I have never used before, such as main, button, aside, ids and classes.  I also strived to use as many semantic elements as possibe to avoid any confusoin in the code. Additionally, I used an icon in the sidebar that I think gives the final product a nice, tasteful look.  
+The portfolio features a number of different elements to showcase my web development skills to future employers.  There are currently 3 different links for landing pages on which several different apps will be showcased. I used this opportunity to experiment with a number of different HTML elements that I have never used before, such as main, button, aside, ids and classes.  I also strived to use as many semantic elements as possibe to avoid any confusion in code readability. Additionally, I used an icon in the sidebar that I think gives the final product a nice, tasteful look.  
 
 ## Static Screenshots
 
@@ -28,11 +28,11 @@ I used this opportunity to experiment with a number of different HTML elements t
 
 ## Functionality
 
-This portfolio contains href hyperlinks in the navbar that take the user to the different sections of the page. Also, each app displayed on the site is wrapped in hrefs that can be clicked anyhere on the image.  Images also include hovering box-shadow for the user to easily navigate the page.
+This portfolio contains href hyperlinks in the navbar that take the user to different sections of the page. Also, each app displayed on the site is wrapped in hrefs that can be clicked anyhere on the image. Images also feature hovering box-shadow for the user to easily navigate the page.
 
 ## Challenges
 
-Perhaps most difficult were the media queries.  This took quite a bit of trial and error because as far as I am aware, there is no way to test the smaller screen size layout until you push to GitHub and wait for the updtaes to clear before sending the link to my phone to see how the layout looks on a mobile. Still working on workarounds for that. VS Code does not seem to have an iPhone app which means that only a live deployed link can be tested for mobile versions.  That was quite time-consuming and I didn't get it 100% right. The 768px size was easy enough because the laptop can can be tested with a localhost live server, but once we get into the 400px size, I stil haven't found a shortcut.
+Perhaps most difficult were the media queries.  This took quite a bit of trial and error because as far as I am aware, there is no way to test the smaller screen size layout until you push to GitHub and wait for the updtaes to clear before sending the link to my phone to see how the layout looks on a mobile. Still working on workarounds for that. VS Code does not seem to have an iPhone app which means that only a live deployed link can be tested for mobile versions.  That was quite time-consuming and I didn't get it 100% right. The 768px size was easy enough because the laptop can be conveniently tested with the localhost live server, but once we get into the 400px size, I stil haven't found a shortcut.
 
 ## Future Development
 
