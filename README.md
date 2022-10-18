@@ -8,18 +8,12 @@
 
 ## Table of Contents
 
-- [Technologies Used](#technologies-used)
 - [Description](#description)
 - [Static Screenshots](#static-screenshots)
 - [Functionality](#functionality)
 - [Challenges](#challenges)
+- [Technologies Used](#technologies-used)
 - [Contact](#contact)
-
-
-## Technologies Used
-
-- HTML
-- CSS
 
 ## Description
 
@@ -42,6 +36,11 @@ Perhaps most difficult were the media queries.  This took quite a bit of trial a
 ## Future Development
 
 In the future, the links will redirect to other apps I have built throughout the University of Denver coding bootcamp.
+
+## Technologies Used
+
+- HTML
+- CSS
 
 ## Contact
 
