@@ -12,6 +12,7 @@
 - [Static Screenshots](#static-screenshots)
 - [Functionality](#functionality)
 - [Challenges](#challenges)
+- [Future Development](#future-development)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
