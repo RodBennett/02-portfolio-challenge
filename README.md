@@ -1,12 +1,32 @@
-# 2-portfolio-challenge
-In this assignment, I used much of whatwe learned in the the first 2 classses with HTML and CSS.
+# Portfolio
 
-I used this opportunity to experiment with a number of different HTML elements that I have never used before, such as main, button, aside,ids and classes.  I also strived to use as many semantic elements as possibe to avoid any confusoin in the code. Additionally, I used an icon in the sidebar that I think gives the final product a nice, tasteful look.  
+## Summary
 
-Choosing a color scheme proved to be quite difficut.  I looked up many different kinds of color schemes on Google and finally came across an orangered, brown and light yellow combination that gives the page a bit of life (imho). I think thge color combinations works quite well for the content.
+``` As a web developer in training, it is vitally important that I create a portfolio of my work for the sake of future employability.  This portfiolio was built using HTML and CSS, the first two programming languages develolpers are taught when learning web development. ```
 
-On the CSS side, I used many new attributes.  It was fun to design this page using such attrubutes as box-shadow and backgrounds for all the boxes and psuedo-elements like "hover, active and focus."  I also put the CSS elements in order as they appear and used class and ID names that make for easy identification in th code.  And then of course, there was the badly needed flexbox practice that I still feel a long way from mastety, but I was glad to have to opportunity to practice.  One lingering question is which parent elements to use to set up cflex display in ontainers and boxes...time will make that clear. 
 
-Finally, and perhaps most difficult were the media queries.  This took quite a bit of trial and error because as far as I am aware, there is no way to test the smaller screen size layout until you push to GitHub and wait for the updtaes to clear before sending the link to my phone to see how the layout looks on a mobile. That was quite time-consuming and I still don't think I got it 100% right. The 768px size was easy enough because the laptop can try them out, but once we get into the 400px size, I haven't found a shortcut.
+### [Deployment Link](https://rodbennett.github.io/02-portfolio-challenge/)
 
-In the end, I think the assignment turned out pretty well even if the code could be better consoliated and formatted.
+## Technologies Used
+
+- HTML
+- CSS
+
+## Description
+
+I used this opportunity to experiment with a number of different HTML elements that I have never used before, such as main, button, aside, ids and classes.  I also strived to use as many semantic elements as possibe to avoid any confusoin in the code. Additionally, I used an icon in the sidebar that I think gives the final product a nice, tasteful look.  
+
+## Static Sceenshots
+
+<img width="1205" alt="Screen Shot 2022-10-17 at 10 24 21 PM" src="https://user-images.githubusercontent.com/106923428/196335259-57c516dd-84d2-40f8-bbc0-c960b696b74e.png">
+
+<img width="1201" alt="Screen Shot 2022-10-17 at 10 24 56 PM" src="https://user-images.githubusercontent.com/106923428/196335291-cc9ef7f2-011e-42f6-a31f-5f1fd2114f23.png">
+
+## Functionality
+
+This portfolio contains href hyperlinks in the navbar that take the user to the different sections of the page. Also, each app displayed on the site is wrapped in hrefs that can be clicked anyhere on the image.  Images also include hovering box-shadow for the user to easily navigate the page.
+
+## Challenges
+
+Perhaps most difficult were the media queries.  This took quite a bit of trial and error because as far as I am aware, there is no way to test the smaller screen size layout until you push to GitHub and wait for the updtaes to clear before sending the link to my phone to see how the layout looks on a mobile. Still working on workarounds for that. VS Code does not seem to have an iPhone app which means that only a live deployed link can be tested for mobile versions.  That was quite time-consuming and I didn't get it 100% right. The 768px size was easy enough because the laptop can can be tested with a localhost live server, but once we get into the 400px size, I stil haven't found a shortcut.
+
